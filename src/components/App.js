@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
-import AddTodoForm from '../containers/AddTodoForm';
-import ToDoList from '../containers/ToDoList';
+import React, { Component } from "react";
+import AddTodoForm from "../containers/AddTodoForm";
+import ToDoList from "../containers/ToDoList";
 
 class App extends Component {
   render() {
