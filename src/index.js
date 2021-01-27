@@ -17,11 +17,7 @@ const store = createStore(rootReducer, composeWithDevTools());
 
 ReactDOM.render(
   <Provider store={store}>
-<<<<<<< HEAD
   <App />
-=======
-    <App />
->>>>>>> adc9608cc4e201574bdb7c0c3ad412279bb77f5f
   </Provider>,
   document.getElementById('root')
 );
